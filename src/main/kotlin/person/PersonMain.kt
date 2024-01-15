@@ -1,0 +1,4 @@
+package person
+
+class PersonMain {
+}
